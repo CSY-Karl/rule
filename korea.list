@@ -60,6 +60,7 @@ IP-CIDR,114.111.32.0/20,no-resolve
 IP-CIDR,119.235.224.0/24,no-resolve
 IP-CIDR,119.235.232.0/24,no-resolve
 IP-CIDR,119.235.235.0/24,no-resolve
+IP-CIDR,2.20.173.29/24,no-resolve
 IP-CIDR,119.235.236.0/23,no-resolve
 IP-CIDR,125.209.192.0/18,no-resolve
 IP-CIDR,125.6.190.0/24,no-resolve
