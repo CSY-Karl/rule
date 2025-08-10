@@ -2,5 +2,10 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,baidu.com
-
+DOMAIN,gs2.ww.prod.dl.playstation.net
+DOMAIN,gst.prod.dl.playstation.net
+DOMAIN-SUFFIX,prod.dl.playstation.net
+DOMAIN-SUFFIX,gs2.sonycoment.loris-e.llnwd.net
+DOMAIN-SUFFIX,quark.cn
+DOMAIN-KEYWORD,quark
 
