@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,plug.game
 DOMAIN-SUFFIX,pstatic.net
 DOMAIN-SUFFIX,smartmediarep.com
 DOMAIN-SUFFIX,webtoons.com
+DOMAIN-SUFFIX,tistory.com
 IP-CIDR,101.101.160.0/20,no-resolve
 IP-CIDR,103.2.28.0/24,no-resolve
 IP-CIDR,103.2.30.0/23,no-resolve
