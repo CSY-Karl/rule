@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,ip.nodeget.com
 DOMAIN-SUFFIX,cmscc.cc
 IP-CIDR,211.253.31.4/32,DIRECT
+IP-CIDR,10.88.0.0/24,no-resolve
+IP-CIDR,192.168.0.0/24,no-resolve
+IP-CIDR,192.168.2.0/24,no-resolve
 DOMAIN,qyapi.weixin.qq.com,DIRECT
 DOMAIN-SUFFIX,weixin.qq.com,DIRECT
 DOMAIN-SUFFIX,ip.nodeget.com,DIRECT
