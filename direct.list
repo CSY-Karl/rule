@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,ip.nodeget.com
 DOMAIN-SUFFIX,cmscc.cc
+DOMAIN-SUFFIX,hyundaicard.com
 
 # IP 直连
 IP-CIDR,211.253.31.4/32,no-resolve
