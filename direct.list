@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,ip.nodeget.com
 DOMAIN-SUFFIX,cmscc.cc
 DOMAIN-SUFFIX,hyundaicard.com
+DOMAIN-SUFFIX,comnxonearth.com
+DOMAIN-SUFFIX,a.nel.cloudflare.com
 
 # IP 直连
 IP-CIDR,211.253.31.4/32,no-resolve
