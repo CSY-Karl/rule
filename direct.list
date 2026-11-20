@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,hyundaicard.com
 DOMAIN-SUFFIX,nxonearth.com
 DOMAIN-SUFFIX,naiixi.com
 
-
 # IP 直连
 IP-CIDR,211.253.31.4/32,no-resolve
 IP-CIDR,10.88.0.0/24,no-resolve
